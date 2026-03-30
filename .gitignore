@@ -1,0 +1,32 @@
+# Environments
+.env
+
+# Prerequisites
+*.d
+*.pyc
+*.pyo
+*.pyd
+
+# Core Python
+__pycache__/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Development Tools
+.coverage
+.tox/
+coverage.xml
+nosetests.xml
+.pytest_cache/
+
+# OS/Editor Files
+.DS_Store
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
